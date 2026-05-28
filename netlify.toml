@@ -1,6 +1,6 @@
 [build]
   base = "frontend"
-  command = "npm install && CI= npx react-scripts build"
+  command = "npm install && chmod +x node_modules/.bin/react-scripts && CI= npm run build"
   publish = "build"
 
 [[redirects]]
