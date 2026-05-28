@@ -7,7 +7,7 @@ python-dotenv==1.0.1
 psycopg2-binary==2.9.9
 gunicorn==21.2.0
 whitenoise==6.6.0
-pandas==2.1.4
+pandas==2.2.2
 numpy==1.26.4
 openpyxl==3.1.2
 pdfplumber==0.11.0
