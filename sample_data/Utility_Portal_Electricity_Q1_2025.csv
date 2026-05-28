@@ -1,0 +1,18 @@
+Account Number,Meter ID,Site Name,Billing Period Start,Billing Period End,Consumption,Unit,Tariff,Reading Type,Peak Demand kVA,Cost,Currency
+ACME-IN-001,MTR-IN01-A,Mumbai Manufacturing Plant,2025-01-01,2025-01-31,245000,kWh,Commercial HT (22kV),Actual,480,411600,INR
+ACME-IN-001,MTR-IN01-B,Mumbai Manufacturing Plant - Block B,2025-01-01,2025-01-31,198000,kWh,Commercial HT (22kV),Actual,310,332640,INR
+ACME-IN-001,MTR-IN01-A,Mumbai Manufacturing Plant,2025-02-01,2025-02-28,221000,KWH,Commercial HT (22kV),Actual,455,371280,INR
+ACME-IN-001,MTR-IN01-B,Mumbai Manufacturing Plant - Block B,2025-02-01,2025-02-28,187000,kWh,Commercial HT (22kV),Estimated,298,314160,INR
+ACME-IN-001,MTR-IN01-A,Mumbai Manufacturing Plant,2025-03-01,2025-03-31,231500,kWh,Commercial HT (22kV),Actual,470,389160,INR
+ACME-IN-002,MTR-IN02-A,Delhi Office HQ,2025-01-01,2025-01-31,87000,kWh,Commercial LT,Actual,120,146160,INR
+ACME-IN-002,MTR-IN02-A,Delhi Office HQ,2025-02-01,2025-02-28,91000,kwh,Commercial LT,Actual,128,152880,INR
+ACME-IN-002,MTR-IN02-A,Delhi Office HQ,2025-03-01,2025-03-31,78000,kWh,Commercial LT,Estimated,115,131040,INR
+ACME-UK-001,MTR-UK01,London Office,2025-01-01,2025-01-31,34000,kWh,Non-Domestic Fixed,Actual,65,6120,GBP
+ACME-UK-001,MTR-UK01,London Office,2025-02-15,2025-03-14,29500,kWh,Non-Domestic Fixed,Actual,58,5310,GBP
+ACME-UK-001,MTR-UK01,London Office,2025-03-01,2025-03-31,31200,kWh,Non-Domestic Fixed,Actual,61,5616,GBP
+ACME-DE-001,MTR-DE01,Frankfurt Warehouse,2025-01-01,2025-01-31,620,MWh,Industriepreis Mittelspannung,Actual,1850,186000,EUR
+ACME-DE-001,MTR-DE01,Frankfurt Warehouse,2025-02-01,2025-02-28,580,MWh,Industriepreis Mittelspannung,Actual,1720,174000,EUR
+ACME-DE-001,MTR-DE01,Frankfurt Warehouse,2025-03-01,2025-03-31,605,MWh,Industriepreis Mittelspannung,Estimated,1795,181500,EUR
+ACME-US-001,,New York Office,2025-01-01,2025-01-31,125000,kWh,Commercial Service C,Actual,280,18750,USD
+ACME-US-001,MTR-US01,New York Office,2025-02-01,2025-02-28,118000,kWh,Commercial Service C,Actual,265,17700,USD
+ACME-US-001,MTR-US01,New York Office,2025-03-01,2025-03-31,131000,kWh,Commercial Service C,Actual,290,19650,USD
