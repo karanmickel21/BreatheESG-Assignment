@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BreatheESG — Emissions Data Ingestion & Review Platform
 
 Live demo: **[deployed-url]**  
@@ -129,3 +130,7 @@ See `docs/SOURCES.md` for full research notes. Summary:
 | Source realism (20%) | `docs/SOURCES.md`, `sample_data/`, `ingestion/parsers.py` |
 | Analyst UX (10%) | `ReviewPage.js`, `DashboardPage.js` |
 | Tradeoffs (10%) | `docs/TRADEOFFS.md` |
+=======
+# BreatheESG-Assignment
+Enterprise ESG emissions ingestion and analytics platform
+>>>>>>> 7d31457430f96f736ef6f418390f183b9d79e787
