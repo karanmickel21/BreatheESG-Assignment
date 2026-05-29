@@ -119,10 +119,9 @@ REST_FRAMEWORK = {
 CORS_ALLOW_ALL_ORIGINS = True  # tighten in production
 
 from datetime import timedelta
+
 SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': timedelta(hours=8),
     'REFRESH_TOKEN_LIFETIME': timedelta(days=1),
-}
-SIMPLE_JWT = {
-    "AUTH_HEADER_TYPES": ("Bearer",),
+    'AUTH_HEADER_TYPES': ('Bearer',),
 }
